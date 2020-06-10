@@ -5,7 +5,7 @@
 * github: https://github.com/Shershov
 ## Skills
 * creating landing-pages
-* knowledge of Git, HTML, CSS, SASS
+* knowledge of Git, HTML, CSS, SASS, basic java Script
 ## Experience
 * creating some html-pages, like: [Tattly](https://shershov.github.io/public/), [ICNDY](https://github.com/Shershov/Projects/tree/master/ICNDY), [and others](https://github.com/Shershov/Projects)
 ## Education
